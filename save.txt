@@ -1,0 +1,32 @@
+5 5 219 26
+C 4 0 5 4 219
+A 1 0 4 4 63
+A 3 3 4 4 44
+A 3 4 4 4 38
+A 2 3 4 4 37
+A 2 1 4 4 28
+A 0 0 4 4 26
+A 1 3 4 4 23
+A 4 2 4 4 14
+A 3 1 4 4 14
+A 4 4 4 4 12
+A 1 2 4 4 11
+A 4 3 4 4 11
+A 2 4 4 4 10
+A 1 4 4 4 9
+A 0 4 4 4 8
+A 0 3 4 4 7
+A 0 2 4 4 6
+A 0 1 4 4 5
+A 3 2 4 4 4
+A 4 1 4 4 3
+A 1 1 4 4 2
+A 2 0 4 4 2
+A 2 2 4 4 2
+A 3 0 4 4 1
+#ZAPIS GRY WIRTUALNY SWIAT v2.0#
+#Damian Jankowski s188597#
+#znak polX polY sila inicjatywa wiek#
+#[A]ntylopa [C]zlowiek [S]uperman [L]is [O]wca [W]ilk [Z]olw#
+#[B]arszcz [G]uarana [M]lecz [T]rawa [X]Wilczejagody#
+#Superman - czlowiek z wlaczona umiejetnoscia#
